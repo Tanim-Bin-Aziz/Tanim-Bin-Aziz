@@ -40,35 +40,34 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://mail.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/tanim-bin-aziz-802a3b248/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://tanim-bin-aziz.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="42" height="30" alt="portfolio"  />
+  
   </a>
-</div>
+</div> -->
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-eigth-theta.vercel.app/api?username=Tanim-Bin-Aziz&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eigth-theta.vercel.app/api/top-langs/?username=Tanim-Bin-Aziz&layout=compact&hide_border=true&theme=radical&langs_count=5" height="150" alt="languages graph" />
+  <!-- <img src="https://github-readme-stats-eigth-theta.vercel.app/api?username=Tanim-Bin-Aziz&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eigth-theta.vercel.app/api/top-langs/?username=Tanim-Bin-Aziz&layout=compact&hide_border=true&theme=radical&langs_count=5" height="150" alt="languages graph" /> -->
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tanim-Bin-Aziz&theme=radical&hide_border=true" height="150" alt="Tanim's GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanim-Bin-Aziz&theme=radical&hide_border=true&bg_color=000000&color=FFF&line=FFF&label=FFF&hide_title=true&width=320&height=150" alt="Tanim's Activity Graph" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanim-Bin-Aziz&theme=radical&hide_border=true&bg_color=000000&color=FFF&line=FFF&label=FFF&hide_title=true&width=320&height=150" alt="Tanim's Activity Graph" /> -->
 </div>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/users/Tanim-Bin-Aziz/achievements">
     <img src="https://img.shields.io/badge/Achievements-Pull%20Shark%20x2-F4D03F?style=for-the-badge" alt="Pull Shark x2" />
   </a>
@@ -78,11 +77,11 @@
   <a href="https://github.com/users/Tanim-Bin-Aziz/achievements">
     <img src="https://img.shields.io/badge/Achievements-Quickdraw-2ECC71?style=for-the-badge" alt="Quickdraw" />
   </a>
-</div>
+</div> -->
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td>
@@ -102,7 +101,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ###
 
