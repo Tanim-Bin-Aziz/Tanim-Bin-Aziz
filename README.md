@@ -55,13 +55,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanim-Bin-Aziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanim-Bin-Aziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-profile-streak-stats.herokuapp.com/?user=Tanim-Bin-Aziz&theme=radical&hide_border=true" height="150" alt="Tanim's GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanim-Bin-Aziz&theme=radical&hide_border=true&bg_color=000000&color=FFF&line=FFF&label=FFF&hide_title=true&width=320&height=150" alt="Tanim's Activity Graph" />
 </div>
@@ -78,15 +71,6 @@
   <a href="https://github.com/users/Tanim-Bin-Aziz/achievements">
     <img src="https://img.shields.io/badge/Achievements-Quickdraw-green?style=for-the-badge" alt="Quickdraw" />
   </a>
-</p>
-
-###
-
-<p align="center">
-  <b>Visitor Count:</b>
-</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Tanim-Bin-Aziz/count.svg" alt="Tanim Bin Aziz visitor count" />
 </p>
 
 ###
