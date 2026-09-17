@@ -55,15 +55,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanim-Bin-Aziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanim-Bin-Aziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-streak-stats.herokuapp.com/?user=Tanim-Bin-Aziz&theme=radical&hide_border=true" height="150" alt="Tanim's GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanim-Bin-Aziz&theme=radical&hide_border=true&bg_color=000000&color=FFF&line=FFF&label=FFF&hide_title=true&width=320&height=150" alt="Tanim's Activity Graph" />
+  <img src="https://img.shields.io/github/followers/Tanim-Bin-Aziz?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Tanim-Bin-Aziz?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/Tanim-Bin-Aziz?style=flat" alt="Repos" />
+  <img src="https://img.shields.io/github/languages/count/Tanim-Bin-Aziz?style=flat" alt="Languages" />
+  <img src="https://img.shields.io/github/last-commit/Tanim-Bin-Aziz?style=flat" alt="Last Commit" />
+  <img src="https://img.shields.io/github/commit-activity/w/Tanim-Bin-Aziz?style=flat" alt="Commit Activity" />
 </div>
 
 ###
